@@ -1,7 +1,7 @@
 [project]
 name = "assignment-w2"
 version = "0.1.0"
-description = "Add your description here"
+description = "2AMS11 week 2 assignment"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = ["numpy", "matplotlib"]
